@@ -5,3 +5,4 @@ github:
   repository_url: https://github.com/worker8/TourGuide
   zip_url: http://example.com/download.zip
   another_url: http://example.com/download.zip
+  baseurl: /TourGuide
