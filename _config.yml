@@ -1,0 +1,7 @@
+title: Tour Guide
+description: TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View
+theme: jekyll-theme-leap-day
+github:
+  repository_url: https://github.com/worker8/mTourGuide
+  zip_url: http://example.com/download.zip
+  another_url: http://example.com/download.zip
